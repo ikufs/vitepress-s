@@ -4,7 +4,7 @@ import {defineConfig} from 'vitepress'
 export default defineConfig({
     title: "Coder Learning Journey",
     description: "A VitePress Site",
-    base: '/journey-vitepress/', // 替换为你的仓库名
+    base: '/vitepress-s/', // 替换为你的仓库名
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
