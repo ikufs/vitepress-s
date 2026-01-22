@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Coder Learning Journey"
-  text: "A VitePress Site"
+  text: "To freedom"
   tagline: My great project tagline
   actions:
     - theme: brand
